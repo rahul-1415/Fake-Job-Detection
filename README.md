@@ -1,4 +1,4 @@
-# Data_Mining_Project_main
+# Fake-Job-Detection
  CSE 572 Project - Fake job posting predictor
 
 Online job portals have made job searching incredibly convenient, but they have also opened the doors for scammers to exploit unsuspecting job seekers. Fake job listings are often created to steal personal information, trick applicants into paying fraudulent fees, or even convince them to perform unpaid work.
